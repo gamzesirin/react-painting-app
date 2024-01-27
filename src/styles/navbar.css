@@ -1,0 +1,32 @@
+.bg-body-tertiary {
+	background-color: #bbc7c4;
+}
+.LOGO {
+	text-align: center;
+	font-size: 2em;
+	color: #fff;
+	text-decoration: none;
+	margin: 0 10px;
+	padding: 8px 12px;
+	border-radius: 4px;
+	position: relative;
+}
+.links {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 1rem;
+}
+
+.link {
+	color: #fff;
+	text-decoration: none;
+	margin: 0 10px;
+	padding: 8px 12px;
+	border-radius: 4px;
+	position: relative;
+}
+
+.link:hover {
+	color: #727574;
+}

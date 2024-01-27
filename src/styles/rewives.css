@@ -1,0 +1,28 @@
+.cards {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	height: 775px;
+}
+.custom-card {
+	/* Add your custom styles here */
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+	margin-bottom: 20px;
+	padding: 20px;
+	margin: 10px;
+	width: 20%;
+	/* Add more styles as needed */
+}
+.text-muted {
+	color: #6c757d !important;
+}
+.title {
+	font-size: 20px;
+	font-weight: bold;
+	color: black;
+}
+Card.Text {
+	padding: 50px;
+}
